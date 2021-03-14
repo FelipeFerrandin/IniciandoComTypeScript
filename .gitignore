@@ -1,0 +1,4 @@
+# Project exclude paths
+/classes.js
+/decorators.js
+/interfaces.js
